@@ -42,7 +42,7 @@ function MoviePlaylist() {
           </button>
         </div>
       </div>
-      <div className="text-slate-300 text-[25px] flex justify-center will-change-scroll  h-[650px] overflow-y-scroll">
+      <div className="text-slate-300 text-[25px] flex justify-center will-change-scroll  h-[650px]">
             <div className="text-bold  flex">
                 <ul>{renderedMovies}</ul>
             </div>
